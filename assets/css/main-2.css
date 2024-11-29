@@ -609,13 +609,23 @@ section,
 }
 
 @media (max-width: 768px) {
-  .home h2 {
+   .home h2 {
     font-size: 32px;
   }
 
   .home p {
     font-size: 20px;
   }
+  .home .blog{
+    width: 100%;
+  }
+  .home .hi{
+    margin-left: 170px;
+    margin-top: 30px;
+    width: 10px;
+    height: 10px;
+  }
+  
 }
 
 /*--------------------------------------------------------------
